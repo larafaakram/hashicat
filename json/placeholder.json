@@ -1,0 +1,11 @@
+{
+  "data": {
+    "type":"vars",
+    "attributes": {
+      "key":"placeholder",
+      "value":"REPLACEME",
+      "category":"terraform",
+      "hcl":false
+    }
+  }
+}
